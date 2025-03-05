@@ -19,6 +19,7 @@ public class Main {
 
         Dog [] dog = new Dog[4];
         Dog dog1 = new Dog("Kyrpto", 12, "Alien");
+        Dog dog2 = new Dog("Barry", 3, "Poodle");
 
 
 }
